@@ -1,0 +1,14 @@
+D:\MyProjects\RazvLogins\RazvLogins\obj\ReleaseForAncients\RazvLogins.csprojResolveAssemblyReference.cache
+D:\MyProjects\RazvLogins\RazvLogins\obj\ReleaseForAncients\Interop.IWshRuntimeLibrary.dll
+D:\MyProjects\RazvLogins\RazvLogins\obj\ReleaseForAncients\Interop.SHDocVw.dll
+D:\MyProjects\RazvLogins\RazvLogins\obj\ReleaseForAncients\RazvLogins.csproj.ResolveComReference.cache
+D:\MyProjects\RazvLogins\RazvLogins\obj\ReleaseForAncients\RazvLogins.Form1.resources
+D:\MyProjects\RazvLogins\RazvLogins\obj\ReleaseForAncients\RazvLogins.Properties.Resources.resources
+D:\MyProjects\RazvLogins\RazvLogins\obj\ReleaseForAncients\RazvLogins.csproj.GenerateResource.Cache
+D:\MyProjects\RazvLogins\RazvLogins\bin\ReleaseForAncients\RazvLogins.exe.config
+D:\MyProjects\RazvLogins\RazvLogins\bin\ReleaseForAncients\RazvLogins.exe
+D:\MyProjects\RazvLogins\RazvLogins\bin\ReleaseForAncients\RazvLogins.pdb
+D:\MyProjects\RazvLogins\RazvLogins\bin\ReleaseForAncients\Interop.IWshRuntimeLibrary.dll
+D:\MyProjects\RazvLogins\RazvLogins\bin\ReleaseForAncients\Interop.SHDocVw.dll
+D:\MyProjects\RazvLogins\RazvLogins\obj\ReleaseForAncients\RazvLogins.exe
+D:\MyProjects\RazvLogins\RazvLogins\obj\ReleaseForAncients\RazvLogins.pdb

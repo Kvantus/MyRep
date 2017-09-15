@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazvLogins", "RazvLogins\RazvLogins.csproj", "{CAD77A5F-0BB5-4650-B636-594253AC0822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseForAncients|Any CPU = ReleaseForAncients|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD77A5F-0BB5-4650-B636-594253AC0822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD77A5F-0BB5-4650-B636-594253AC0822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD77A5F-0BB5-4650-B636-594253AC0822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD77A5F-0BB5-4650-B636-594253AC0822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD77A5F-0BB5-4650-B636-594253AC0822}.ReleaseForAncients|Any CPU.ActiveCfg = ReleaseForAncients|Any CPU
+		{CAD77A5F-0BB5-4650-B636-594253AC0822}.ReleaseForAncients|Any CPU.Build.0 = ReleaseForAncients|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,43 @@
+D:\MyProjects\RazvLogins\RazvLogins\bin\Debug\RazvLogins.exe.config
+D:\MyProjects\RazvLogins\RazvLogins\bin\Debug\RazvLogins.exe
+D:\MyProjects\RazvLogins\RazvLogins\bin\Debug\RazvLogins.pdb
+D:\MyProjects\RazvLogins\RazvLogins\obj\Debug\RazvLogins.csprojResolveAssemblyReference.cache
+D:\MyProjects\RazvLogins\RazvLogins\obj\Debug\Interop.SHDocVw.dll
+D:\MyProjects\RazvLogins\RazvLogins\obj\Debug\RazvLogins.csproj.ResolveComReference.cache
+D:\MyProjects\RazvLogins\RazvLogins\obj\Debug\RazvLogins.Properties.Resources.resources
+D:\MyProjects\RazvLogins\RazvLogins\obj\Debug\RazvLogins.csproj.GenerateResource.Cache
+D:\MyProjects\RazvLogins\RazvLogins\obj\Debug\RazvLogins.exe
+D:\MyProjects\RazvLogins\RazvLogins\obj\Debug\RazvLogins.pdb
+D:\MyProjects\RazvLogins\RazvLogins\obj\Debug\RazvLogins.Form1.resources
+D:\MyProjects\RazvLogins\RazvLogins\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\MyProjects\RazvLogins\RazvLogins\obj\Debug\RazvLogins.csproj.CoreCompileInputs.cache
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\bin\Debug\RazvLogins.exe.config
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\bin\Debug\RazvLogins.exe
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\bin\Debug\RazvLogins.pdb
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\obj\Debug\RazvLogins.csprojResolveAssemblyReference.cache
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\obj\Debug\Interop.SHDocVw.dll
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\obj\Debug\RazvLogins.csproj.ResolveComReference.cache
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\obj\Debug\RazvLogins.Form1.resources
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\obj\Debug\RazvLogins.Properties.Resources.resources
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\obj\Debug\RazvLogins.csproj.GenerateResource.Cache
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\obj\Debug\RazvLogins.csproj.CoreCompileInputs.cache
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\obj\Debug\RazvLogins.exe
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\obj\Debug\RazvLogins.pdb
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\bin\Debug\EPPlus.dll
+D:\MyProjects\RazvLogins - Copy 12.09\RazvLogins\bin\Debug\EPPlus.xml
+D:\MyProjects\RazvLogins 2.0\RazvLogins\bin\Debug\RazvLogins.exe.config
+D:\MyProjects\RazvLogins 2.0\RazvLogins\bin\Debug\RazvLogins.exe
+D:\MyProjects\RazvLogins 2.0\RazvLogins\bin\Debug\RazvLogins.pdb
+D:\MyProjects\RazvLogins 2.0\RazvLogins\bin\Debug\EPPlus.dll
+D:\MyProjects\RazvLogins 2.0\RazvLogins\bin\Debug\EPPlus.xml
+D:\MyProjects\RazvLogins 2.0\RazvLogins\obj\Debug\RazvLogins.csprojResolveAssemblyReference.cache
+D:\MyProjects\RazvLogins 2.0\RazvLogins\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\MyProjects\RazvLogins 2.0\RazvLogins\obj\Debug\Interop.SHDocVw.dll
+D:\MyProjects\RazvLogins 2.0\RazvLogins\obj\Debug\RazvLogins.csproj.ResolveComReference.cache
+D:\MyProjects\RazvLogins 2.0\RazvLogins\obj\Debug\RazvLogins.Form1.resources
+D:\MyProjects\RazvLogins 2.0\RazvLogins\obj\Debug\RazvLogins.Properties.Resources.resources
+D:\MyProjects\RazvLogins 2.0\RazvLogins\obj\Debug\RazvLogins.csproj.GenerateResource.Cache
+D:\MyProjects\RazvLogins 2.0\RazvLogins\obj\Debug\RazvLogins.csproj.CoreCompileInputs.cache
+D:\MyProjects\RazvLogins 2.0\RazvLogins\obj\Debug\RazvLogins.exe
+D:\MyProjects\RazvLogins 2.0\RazvLogins\obj\Debug\RazvLogins.pdb
