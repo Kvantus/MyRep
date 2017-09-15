@@ -31,7 +31,7 @@ namespace RazvLogins
             string supsFile = @"RazvLoginsButtons.txt";
             if (!File.Exists(path + "\\" + supsFile))   //проверка наличия файла
             {
-                MessageBox.Show("Файл с кнопками не обнаружен");
+                MessageBox.Show("Файл с кнопками не обнаружен, пичалька");
                 Environment.Exit(0);
                 return;
             }
