@@ -43,7 +43,7 @@
             // BTest
             // 
             this.BTest.Font = new System.Drawing.Font("Comic Sans MS", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BTest.Location = new System.Drawing.Point(616, 517);
+            this.BTest.Location = new System.Drawing.Point(708, 517);
             this.BTest.Name = "BTest";
             this.BTest.Size = new System.Drawing.Size(210, 50);
             this.BTest.TabIndex = 0;
