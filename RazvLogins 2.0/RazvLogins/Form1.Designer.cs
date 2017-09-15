@@ -43,7 +43,7 @@
             // BTest
             // 
             this.BTest.Font = new System.Drawing.Font("Comic Sans MS", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BTest.Location = new System.Drawing.Point(708, 517);
+            this.BTest.Location = new System.Drawing.Point(630, 517);
             this.BTest.Name = "BTest";
             this.BTest.Size = new System.Drawing.Size(210, 50);
             this.BTest.TabIndex = 0;
@@ -144,10 +144,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(1308, 588);
+            this.Controls.Add(this.BTest);
             this.Controls.Add(this.SmartMultiPage);
             this.Controls.Add(this.TTestik);
             this.Controls.Add(this.BEnd);
-            this.Controls.Add(this.BTest);
             this.Name = "Form1";
             this.Text = "Окошечко";
             this.Load += new System.EventHandler(this.Form1_Load);
