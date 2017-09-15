@@ -85,7 +85,7 @@ namespace RazvLogins
         }
 
 
-        public void GetSups2()
+        public void GetSups2() // аналогичный метод, только считываем Excel файл.
         {
             string path = @"\\server\out\Отдел Развития\_INFO_\Поставщики";
             string supsFile = @"WS.xlsx";
